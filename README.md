@@ -19,7 +19,9 @@ npm start
 This will start the webapp at `http://localhost:4000`
 
 The webapp currently has 2 pages:
+![Question Bank List View](./images/page1.png)
 
+![Question Manager View](./images/page2.png)
 
 
 
